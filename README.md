@@ -10,5 +10,6 @@ This software is distributed under the GNU General Public License v3.0
 
 ## Reference
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6319962.svg)](https://doi.org/10.5281/zenodo.7789042)
 ## Contacts
 For any enquiry please contact <manuela.carnaghi@greenwich.ac.uk>
